@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/whtns/whtns.r-universe.dev
 	branch = HEAD
-[submodule "chevreulPlot"]
-	path = chevreulPlot
-	url = https://github.com/whtns/chevreulPlot
 [submodule "chevreulProcess"]
 	path = chevreulProcess
 	url = https://github.com/whtns/chevreulProcess
-[submodule "chevreulShiny"]
-	path = chevreulShiny
-	url = https://github.com/whtns/chevreulShiny
